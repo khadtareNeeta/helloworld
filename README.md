@@ -1,3 +1,7 @@
-# helloworld
-<h2>hello world repository 
-this is my first git repository for practical purpose.</h2>
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First File....</h1>
+    <p>Helllo, This is my first page in the Github....</p>
+  </body>
+ </html>
